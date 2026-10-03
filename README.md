@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of justoverclock/flarum-ext-visitorstat.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-visitorstat) or the [upstream repository](https://github.com/justoverclockl/flarum-ext-visitorstat).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.0.0`
+**8** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-05-06 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-05-06 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-05-06 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-05-07 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-05-07 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-05-07 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-05-07 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.1.6) |
+| `0.2.0` | 2021-05-28 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-visitorstat/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/justoverclock-flarum-ext-visitorstat.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-flarum-ext-visitorstat.json)
 
